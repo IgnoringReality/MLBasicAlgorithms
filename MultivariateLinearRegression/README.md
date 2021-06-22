@@ -8,11 +8,11 @@ Gradient Descent is the process of minimizing a function by following the gradie
 
 This involves knowing the form of the cost as well as the derivative so that from a given point you know the gradient and can move in that direction, e.g. downhill towards the minimum value.
 
-Each iteration, the coefficients (b) in machine learning language are updated using the equation:
+Each iteration, the coefficients (a) in machine learning language are updated using the equation:
 
 a = a - learning_rate * error * x
 
-Where b is the coefficient or weight being optimized, learning_rate is a learning rate that you must configure (e.g. 0.01), error is the prediction error for the model on the training data attributed to the weight, and x is the input value.
+Where a is the coefficient or weight being optimized, learning_rate is a learning rate that you must configure (e.g. 0.01), error is the prediction error for the model on the training data attributed to the weight, and x is the input value.
 
 # Dataset used
 
