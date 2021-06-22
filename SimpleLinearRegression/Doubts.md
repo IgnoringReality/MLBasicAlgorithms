@@ -6,4 +6,12 @@
 ## 2. What is Zero Rule algorithm?
 **Answer** - 
 
+## 3. What are args for in evaluate algorithm?
+**Answer** - 
+
+## 4. Explain working of test_train_split function.
+**Answer** - 
+
+## 5. What is seed() used for?
+**Answer** - 
 
