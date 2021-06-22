@@ -1,6 +1,8 @@
 Simple Linear Regression
 ------------------------
 
+Reference - https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/ 
+
 Linear Regression assumes a linear relationship between the input variables (X) and the single output variable (y).
 The linear relationship can be represented by the equation of a line -
 
