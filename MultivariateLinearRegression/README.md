@@ -1,5 +1,7 @@
 # Multivariate Linear Regression
 
+[Implementation Reference](https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/)
+
 Still a linear relation, but multiple input variables decide one output variable.
 
 y = a0 + a1 * x1 +a2 * x2 + a3 * x3 + . . . 
