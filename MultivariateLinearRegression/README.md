@@ -18,7 +18,7 @@ Where a is the coefficient or weight being optimized, learning_rate is a learnin
 
 # Dataset used
 
-After we develop our linear regression algorithm with stochastic gradient descent, we will use it to model the wine quality dataset.
+### Wine quality dataset.
 
 This dataset is comprised of the details of 4,898 white wines including measurements like acidity and pH. The goal is to use these objective measures to predict the wine quality on a scale between 0 and 10.
 
